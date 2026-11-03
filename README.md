@@ -138,5 +138,3 @@ AI assistance (ChatGPT) was used during development for:
 - Helping draft this README and interpret build, Norminette, and Valgrind output.
 
 AI-generated explanations, code suggestions, and test results were reviewed and checked through compilation, testing, and further study. Understanding and defending each implementation remains the student's responsibility.
-# libft
-# libft
