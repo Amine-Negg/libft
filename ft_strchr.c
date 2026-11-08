@@ -20,17 +20,13 @@ char	*ft_strchr(const char *s, int c)
 	while (s[i] != '\0')
 	{
 		if ((unsigned char)s[i] == (unsigned char)c)
-		{
 			return ((char *)(s + i));
-		}
 		i++;
 	}
 	if (s[i] == '\0')
 	{
 		if (c == 0)
-		{
 			return ((char *)(s + i));
-		}
 	}
 	return (NULL);
 }
